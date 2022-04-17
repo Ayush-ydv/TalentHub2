@@ -28,9 +28,9 @@ function BeforeHomePage() {
         </div>
         <div className="heading">
           <div className="head">
-            India’s largest
+            Learn
             <br />
-            learning platform
+            From The Best
           </div>
           <div className="course">
             <div className="course1">
@@ -38,21 +38,21 @@ function BeforeHomePage() {
                 src="https://static.uacdn.net/production/_next/static/images/home/test-prep-learning.svg?q=75&w=256"
                 alt="doll"
               />
-              <div className="line1">Prepare for</div>
-              <div className="line2">Competitive exams</div>
-              <div className="line3">Popular goles</div>
+              <div className="line1">Give your dreams a chance. </div>
+              <div className="line2">Cultural Clubs</div>
+              <div className="line3">clubs:</div>
               <div className="line4">
-                <div>UPSC CSE - GS</div>
-                <div>IIT JEE</div>
-                <div>NEET UG</div>
-                <div>Bank Exams</div>
+                <div>DANCE</div>
+                <div>SING</div>
+                <div>ACT</div>
+                <div>LEARN</div>
               </div>
               <div className="line5">
-                <div>{"GATE & ESE"}</div>
-                <div>UPSC CSE - Optional</div>
+                <div>{":-P"}</div>
+                <div>Buckle up and shoot</div>
               </div>
               <Link to="/explore">
-                <button>Start Learning</button>
+                <button>Start Now</button>
               </Link>
             </div>
             <div className="course1">
@@ -60,20 +60,20 @@ function BeforeHomePage() {
                 src="https://static.uacdn.net/production/_next/static/images/home/test-prep-learning.svg?q=75&w=256"
                 alt="doll"
               />
-              <div className="line1">Prepare for</div>
-              <div className="line2">Class 6 to 12</div>
-              <div className="line3">Popular boards</div>
+              <div className="line1">Interested in Technical stuffs? </div>
+              <div className="line2">We got you covered</div>
+              <div className="line3">clubs:</div>
               <div className="line4">
-                <div>CBSE</div>
-                <div>Maharashtra Board</div>
-                <div>Uttar Pradesh Board</div>
+                <div>Android</div>
+                <div>Cyber</div>
+                <div>Anterix</div>
               </div>
               <div className="line5">
-                <div>Uttar Pradesh Board</div>
+                <div>And many more...</div>
               </div>
               <Link to="/explore">
                 {" "}
-                <button>Start Learning</button>
+                <button>Start Now</button>
               </Link>
             </div>
           </div>

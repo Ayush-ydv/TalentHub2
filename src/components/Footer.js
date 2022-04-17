@@ -19,7 +19,7 @@ const data = [
   },
   {
     title: "POPULAR GOALS",
-    text1: "IIT JEE",
+    text1: "",
     text2: "UPSC CSE GS",
     text3: "SSC Exams",
     text4: "CBSE Class 12",
